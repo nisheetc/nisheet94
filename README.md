@@ -5,8 +5,6 @@
 I'm an enthusiast for decentralized applications, exploring the vast realms of blockchain technology. My coding journey began in the centralized world, but the allure of decentralized solutions beckoned, and I found my passion. Each project I embark upon is a step towards reshaping the digital landscape, ensuring transparency, security, and empowerment for all users. My primary focus? Making web3 a touch more fun, line by line.
 
    <p align="left">
-      <a href="https://www.github.com/nisheet94">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nisheet94?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.nisheetchauhan.com">
          <img alt="website" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-nisheetchauhan.com-blue?style=for-the-badge"/></a>
    </p>
