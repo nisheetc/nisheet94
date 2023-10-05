@@ -20,10 +20,14 @@ I'm an enthusiast for decentralized applications, exploring the vast realms of b
 
 - Frontend Development
 
+  > [React](https://react.dev/), [Next.js](https://nextjs.org/), [Vite](https://vitejs.dev/), [HTML5](https://html.spec.whatwg.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Tailwind CSS](https://tailwindcss.com/).
+
 - Backend & Deployment
+
+  > [Node.js](https://nodejs.org/), [IPFS](https://ipfs.tech/), [Filecoin](https://filecoin.io/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Vercel](https://vercel.com/).
 
 - Media Optimization & CDN
 
-
+  > [Gumlet](https://www.gumlet.com/), [Cloudinary](https://cloudinary.com/), [Uploadcare](https://uploadcare.com/).
 
 <br />
