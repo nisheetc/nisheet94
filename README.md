@@ -1,13 +1,10 @@
+![Banner](https://github.com/nisheet94/nisheet94/blob/main/Bannerv1.png)
+
 # 🚀 Nisheet Chauhan
 
 **`Senior Blockchain Developer | Decentralized Pioneer`**
 
 I'm an enthusiast for decentralized applications, exploring the vast realms of blockchain technology. My coding journey began in the centralized world, but the allure of decentralized solutions beckoned, and I found my passion. Each project I embark upon is a step towards reshaping the digital landscape, ensuring transparency, security, and empowerment for all users. My primary focus? Making web3 a touch more fun, line by line.
-
-   <p align="left">
-      <a href="https://www.nisheetchauhan.com">
-         <img alt="website" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-nisheetchauhan.com-blue?style=for-the-badge"/></a>
-   </p>
 
 ---
 
