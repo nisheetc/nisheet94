@@ -8,11 +8,29 @@ I'm an enthusiast for decentralized applications, exploring the vast realms of b
 
 ---
 
-### 🛠️ Tech Stack
-<img align="left" alt="Blockchain" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/blockchain.com.svg"/>
-<img align="left" alt="Ethereum" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-plain.svg" />
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+## 🛠️ Tech Stack
+
+- Web3 & Blockchain: Solidity
+Ethereum
+Polygon
+web3.js
+ethers.js
+Hardhat
+Metamask
+Infura
+Ganache
+Truffle
+The Graph
+
+- Languages
+
+- Frontend Development
+
+- Backend & Deployment
+
+- Media Optimization & CDN
+
+- 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br />
