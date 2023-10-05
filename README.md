@@ -29,9 +29,3 @@ I'm an enthusiast for decentralized applications, exploring the vast realms of b
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=nisheet94&theme=gruvbox&border_radius=4.5) -->
 
-#
-
-<details>
- <summary><h3>🌐 My Journey Through the Web3</h3></summary>
-   Diving into the world of coding, I quickly recognized the transformative power of blockchain technology. It wasn't just about transactions or cryptocurrencies; it was about building a more transparent, equitable, and decentralized web. My adventures led me to create several groundbreaking dApps, each aiming to bring a slice of the future into today. While the blockchain landscape is ever-evolving, one thing remains constant: my passion for innovating and pushing boundaries. From the challenges of smart contracts to the thrill of minting a new NFT, every day is a new chapter in this exciting saga. And as I continue to navigate these decentralized seas, I invite you to join me on this journey. Let's shape the future, one block at a time.
-</details>
