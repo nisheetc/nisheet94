@@ -16,23 +16,14 @@ I'm an enthusiast for decentralized applications, exploring the vast realms of b
 
 - Languages
 
+  > [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Java](https://www.java.com/), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [MATLAB](https://www.mathworks.com/products/matlab.html), [GraphQL](https://graphql.org/).
+
 - Frontend Development
 
 - Backend & Deployment
 
 - Media Optimization & CDN
 
-- 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 
 <br />
-
-#
-
-![Nisheet's Badge](https://img.shields.io/badge/Nisheet-Blockchain%20Enthusiast-blue)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
