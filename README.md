@@ -19,6 +19,5 @@ I'm an enthusiast for decentralized applications, exploring the vast realms of b
 
 #
 
-<a data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:profile" href="/topics/profile" title="Topic: profile" data-view-component="true" class="topic-tag topic-tag-link">
-  profile
-</a>
+![Nisheet's Badge](https://img.shields.io/badge/Nisheet-Blockchain%20Enthusiast-blue)
+
