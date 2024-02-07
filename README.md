@@ -2,7 +2,7 @@
 
 # 🚀 Nisheet Chauhan
 
-**`Senior Blockchain Developer | Decentralized Pioneer`**
+**`Senior Frontend Developer | Decentralized Pioneer`**
 
 I'm an enthusiast for decentralized applications, exploring the vast realms of blockchain technology. My coding journey began in the centralized world, but the allure of decentralized solutions beckoned, and I found my passion. Each project I embark upon is a step towards reshaping the digital landscape, ensuring transparency, security, and empowerment for all users. My primary focus? Making web3 a touch more fun, line by line.
 
