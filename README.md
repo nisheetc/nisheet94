@@ -4,7 +4,7 @@
 
 **`Senior Frontend Developer | Decentralized Pioneer`**
 
-I'm an enthusiast for decentralized applications, exploring the vast realms of blockchain technology. My coding journey began in the centralized world, but the allure of decentralized solutions beckoned, and I found my passion. Each project I embark upon is a step towards reshaping the digital landscape, ensuring transparency, security, and empowerment for all users. My primary focus? Making web3 a touch more fun, line by line.
+As a devoted frontend developer, I'm deeply immersed in the art of creating intuitive and dynamic web interfaces. My journey in coding is fueled by a passion for user-centric design and the latest frontend technologies. Each project is an opportunity to innovate and enhance the web experience, making it more engaging and accessible for users everywhere. Join me in my quest to shape the digital landscape, one line of code at a time.
 
 ---
 
