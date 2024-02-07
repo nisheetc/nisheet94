@@ -1,4 +1,4 @@
-![Banner](https://github.com/nisheet94/nisheet94/blob/main/Bannerv1.png)
+![Banner](https://github.com/nisheet94/nisheet94/blob/main/Bannerv2.png)
 
 # 🚀 Nisheet Chauhan
 
