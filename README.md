@@ -24,7 +24,7 @@ As a devoted frontend developer, I'm deeply immersed in the art of creating intu
   > [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [NestJS](https://nestjs.com/), [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/), [GraphQL](https://graphql.org/), [Swagger](https://swagger.io/), [Elasticsearch](https://www.elastic.co/), [Python](https://www.python.org/).
 - Cloud & DevOps
 
-  > [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [GCP](https://cloud.google.com/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Vercel](https://vercel.com/), [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [npm](https://www.npmjs.com/), [Vite](https://vitejs.dev/), [Turborepo](https://turborepo.dev/).
+  > [Lambda](https://aws.amazon.com/lambda/), [S3](https://aws.amazon.com/s3/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [GCP](https://cloud.google.com/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Vercel](https://vercel.com/), [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [npm](https://www.npmjs.com/), [Vite](https://vitejs.dev/), [Turborepo](https://turborepo.dev/).
 
 - Tools & Services
 
