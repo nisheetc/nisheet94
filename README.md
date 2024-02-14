@@ -28,6 +28,6 @@ As a devoted frontend developer, I'm deeply immersed in the art of creating intu
 
 - Tools & Services
 
-  > [Git](https://git-scm.com/), [GitHub](https://github.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Uploadcare](https://uploadcare.com/), [Datadog](https://www.datadog.com/), [Sentry](https://sentry.io/), [LogRocket](https://logrocket.com/).
+  > [Git](https://git-scm.com/), [GitHub](https://github.com/), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Cloudinary](https://cloudinary.com/), [Gumlet](https://www.gumlet.com/), [Uploadcare](https://uploadcare.com/), [Datadog](https://www.datadog.com/), [Sentry](https://sentry.io/), [LogRocket](https://logrocket.com/), [The Graph](https://thegraph.com/), [IPFS](https://ipfs.io/).
 
 <br />
