@@ -4,7 +4,7 @@
 
 **`Senior Frontend Developer | Tech Enthusiast`**
 
-As a devoted frontend developer, I'm deeply immersed in the art of creating intuitive and dynamic web interfaces. My journey in coding is fueled by a passion for user-centric design and the latest frontend technologies. Each project is an opportunity to innovate and enhance the web experience, making it more engaging and accessible for users everywhere. Join me in my quest to shape the digital landscape, one line of code at a time.
+As a devoted frontend developer, I'm deeply immersed in the art of creating intuitive and dynamic web interfaces. My journey in coding is fueled by a passion for user-centric design and the latest frontend technologies. Each project is an opportunity to innovate and enhance the web experience, making it more engaging and accessible for users everywhere. Join me in my quest to shape the digital landscape, one line of code at a time. 
 
 ---
 
