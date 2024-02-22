@@ -10,7 +10,7 @@ As a devoted frontend developer, I'm deeply immersed in the art of creating intu
 
 ## 🛠️ Tech Stack
 
-- Web3 & Blockchain:
+- Frontend Technology:
   
   > [React](https://react.dev/), [Vue](https://vuejs.org/), [Next.js](https://nextjs.org/), [React Native](https://reactnative.dev/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [HTML](https://html.spec.whatwg.org/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [SCSS](https://sass-lang.com/), [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/), [Redux](https://redux.js.org/), [MobX](https://mobx.js.org/README.html), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/), [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/), [Storybook](https://storybook.js.org/), [jQuery](https://jquery.com/). 
 
